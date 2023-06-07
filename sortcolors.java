@@ -16,6 +16,5 @@ public class sortcolors {
                     nums[i]=2;
             }
     }
-} {
     
 }
