@@ -1,4 +1,3 @@
-import java.util.*;
 class nextpermutation {
 
     //3rd problem of the day
