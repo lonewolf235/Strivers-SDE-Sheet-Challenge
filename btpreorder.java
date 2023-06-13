@@ -41,6 +41,6 @@ class btpreorder {
         preorder(root.left);
         preorder(root.right);
     }
-} {
+
     
 }
